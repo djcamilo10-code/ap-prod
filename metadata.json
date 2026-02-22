@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard de Produção",
+  "description": "Dashboard para acompanhamento de produção com níveis de acesso Admin e Visitante.",
+  "requestFramePermissions": []
+}
